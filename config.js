@@ -1,5 +1,5 @@
 //SOME ENCRYPTED FILES
-//THANKS FOR CHOOSING CHATHUMAMD
+//THANKS FOR CHOOSING CHATHUMABOT
 
 const fs = require('fs')
 const chalk = require('chalk')
